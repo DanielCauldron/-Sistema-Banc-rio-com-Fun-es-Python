@@ -1,6 +1,3 @@
-Claro! Aqui está uma análise do projeto e um exemplo de README, com foco profissional para recrutadores. Adaptei para destacar objetivos, tecnologias, instruções e diferenciais – pontos valorizados em processos seletivos:
-
----
 
 # Sistema Bancário com Funções em Python
 
@@ -56,6 +53,4 @@ Este projeto é resultado de um desafio prático com o objetivo de consolidar co
 
 Desenvolvido por [Daniel Cauldron](https://github.com/DanielCauldron)
 
----
 
-Se desejar personalizar ainda mais (ex: incluir badges, GIF de demonstração, tópicos de soft skills), me avise!
